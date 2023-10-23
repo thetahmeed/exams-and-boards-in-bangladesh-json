@@ -29,7 +29,7 @@ You are free to use this data in your projects under the terms of the open-sourc
 # Example Usage
 Here's an example of how to access the data using JavaScript:
 ```
-// Load the exam options data
+// Load the file
 const examList = require('./exams-in-bangladesh.json');
 
 // Access exam options
