@@ -11,10 +11,12 @@ The JSON-like data structure is organized as follows:
   "exam_options": [
     {
       "id": 1,
+      "value": "ssc",
       "label": "SSC/Dakhil/Equivalent"
     },
     {
       "id": 2,
+      "value": "jsc",
       "label": "JSC/JDC"
     },
     // ... (other exam options)
@@ -32,7 +34,7 @@ const examOptions = require('./exam_options.json');
 
 // Access exam options
 examOptions.exam_options.forEach(option => {
-  console.log(`ID: ${option.id}, Label: ${option.label}`);
+  console.log(`ID: ${option.id}, Value: ${option.value}, Label: ${option.label}`);
 });
 ```
 # Contributing
