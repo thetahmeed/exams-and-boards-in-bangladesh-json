@@ -1,6 +1,6 @@
 # Exams in Bangladesh
 
-This repository provides a JSON-like data structure containing a list of exam options. The data is organized to include exam labels and numerical IDs. You can use this data in your projects as a reference or for any other purpose.
+This repository provides a JSON containing a list of exam options. The data is organized to include exam labels, values, and numerical IDs. You can use this data in your projects as a reference or for any other purpose.
 
 ## JSON Data Structure
 
