@@ -2,13 +2,13 @@
     "exams": [
         {
             "id": 1,
-            "value": "ssc",
-            "label": "SSC/Dakhil/Equivalent"
+            "value": "jsc",
+            "label": "JSC/JDC"
         },
         {
             "id": 2,
-            "value": "jsc",
-            "label": "JSC/JDC"
+            "value": "ssc",
+            "label": "SSC/Dakhil/Equivalent"
         },
         {
             "id": 3,
