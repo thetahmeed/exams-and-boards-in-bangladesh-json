@@ -1,264 +1,300 @@
 {
-  "exam_options": [
-    {
-      "id": 1,
-      "value": "jsc",
-      "label": "JSC/JDC"
-    },
-    {
-      "id": 2,
-      "value": "ssc",
-      "label": "SSC/Dakhil/Equivalent"
-    },
-    {
-      "id": 3,
-      "value": "ssc",
-      "label": "SSC/Dakhil"
-    },
-    {
-      "id": 4,
-      "value": "ssc_voc",
-      "label": "SSC(Vocational)"
-    },
-    {
-      "id": 5,
-      "value": "hsc",
-      "label": "HSC/Alim"
-    },
-    {
-      "id": 6,
-      "value": "hsc_voc",
-      "label": "HSC(Vocational)"
-    },
-    {
-      "id": 7,
-      "value": "hsc_hbm",
-      "label": "HSC(BM)"
-    },
-    {
-      "id": 8,
-      "value": "hsc_dic",
-      "label": "Diploma in Commerce"
-    },
-    {
-      "id": 9,
-      "value": "hsc",
-      "label": "Diploma in Business Studies"
-    },
-    {
-      "id": 10,
-      "value": "bba",
-      "label": "Bachelor of Business Administration (BBA)"
-    },
-    {
-      "id": 11,
-      "value": "bbs",
-      "label": "Bachelor of Business Studies (BBS)"
-    },
-    {
-      "id": 12,
-      "value": "bre",
-      "label": "Bachelor of Real Estate (BRE)"
-    },
-    {
-      "id": 13,
-      "value": "bthm",
-      "label": "Bachelor of Tourism and Hospitality Management (BTHM)"
-    },
-    {
-      "id": 14,
-      "value": "be",
-      "label": "Bachelor of Innovation and Entrepreneurship (BE)"
-    },
-    {
-      "id": 15,
-      "value": "bcom_accounting",
-      "label": "B. Com (Hons.) in Accounting"
-    },
-    {
-      "id": 16,
-      "value": "bcom_finance",
-      "label": "B. Com (Hons.) in Finance & Banking"
-    },
-    {
-      "id": 17,
-      "value": "bcom_management",
-      "label": "B. Com (Hons.) in Management"
-    },
-    {
-      "id": 18,
-      "value": "bba_marketing",
-      "label": "BBA in Marketing (Hons.)"
-    },
-    {
-      "id": 19,
-      "value": "bse_ete",
-      "label": "B.Sc. in Electronics & Telecommunication Engineering (ETE)"
-    },
-    {
-      "id": 20,
-      "value": "bse_te",
-      "label": "B.Sc. in Textile Engineering (TE)"
-    },
-    {
-      "id": 21,
-      "value": "bse_eee",
-      "label": "B.Sc. in Electrical & Electronic Engineering (EEE)"
-    },
-    {
-      "id": 22,
-      "value": "bse_architecture",
-      "label": "B.Sc. in Architecture (B. Arch)"
-    },
-    {
-      "id": 23,
-      "value": "ce",
-      "label": "Department of Civil Engineering (CE)"
-    },
-    {
-      "id": 24,
-      "value": "bpharmacy",
-      "label": "Bachelor of Pharmacy (Hons)"
-    },
-    {
-      "id": 25,
-      "value": "bse_nfe",
-      "label": "B.Sc. in Nutrition & Food Engineering (NFE)"
-    },
-    {
-      "id": 26,
-      "value": "bph",
-      "label": "Bachelor of Public Health"
-    },
-    {
-      "id": 27,
-      "value": "bags",
-      "label": "Bachelor of Agricultural Science (AGS)"
-    },
-    {
-      "id": 28,
-      "value": "ba_english",
-      "label": "Bachelor of Arts (Hons) in English"
-    },
-    {
-      "id": 29,
-      "value": "llb",
-      "label": "Bachelor of Law (Hons) (LLB)"
-    },
-    {
-      "id": 30,
-      "value": "bss_journalism",
-      "label": "BSS (Hons) in Journalism, Media and Communication"
-    },
-    {
-      "id": 31,
-      "value": "mba",
-      "label": "Master of Business Administration (MBA)"
-    },
-    {
-      "id": 32,
-      "value": "msc_cse",
-      "label": "M.Sc. in Computer Science & Engineering (CSE)"
-    },
-    {
-      "id": 33,
-      "value": "msc_mis",
-      "label": "M.Sc. in Management Information Systems (MIS)"
-    },
-    {
-      "id": 34,
-      "value": "msc_swe",
-      "label": "M.Sc. in Software Engineering (SWE)"
-    },
-    {
-      "id": 35,
-      "value": "msc_ete",
-      "label": "M.Sc. in Electronics and Telecommunication Engineering (ETE)"
-    },
-    {
-      "id": 36,
-      "value": "msc_te",
-      "label": "M.Sc. in Textile Engineering (TE)"
-    },
-    {
-      "id": 37,
-      "value": "mph",
-      "label": "Master of Public Health (MPH)"
-    },
-    {
-      "id": 38,
-      "value": "mpharmacy",
-      "label": "Master of Pharmacy"
-    },
-    {
-      "id": 39,
-      "value": "ma_english",
-      "label": "Master of Arts in English"
-    },
-    {
-      "id": 40,
-      "value": "llm",
-      "label": "Master of Law (LLM)"
-    },
-    {
-      "id": 41,
-      "value": "mss_journalism",
-      "label": "MSS in Journalism, Media and Communication"
-    },
-    {
-      "id": 42,
-      "value": "mss_development_studies",
-      "label": "MSS in Development Studies"
-    },
-    {
-      "id": 43,
-      "value": "pgd_islm",
-      "label": "Postgraduate Diploma in Information Science and Library Management"
-    },
-    {
-      "id": 44,
-      "value": "phd",
-      "label": "Doctor of Philosophy (Ph.D.)"
-    },
-    {
-      "id": 45,
-      "value": "mphil",
-      "label": "Master of Philosophy (M.Phil.)"
-    },
-    {
-      "id": 46,
-      "value": "mres",
-      "label": "Masters by Research (M.Res)"
-    },
-    {
-      "id": 47,
-      "value": "mder",
-      "label": "Master of Digital Education and Research (MDER)"
-    },
-    {
-      "id": 48,
-      "value": "bse_transportation_engineering",
-      "label": "Bachelor of Science in Transportation Engineering"
-    },
-    {
-      "id": 49,
-      "value": "bse_microbiology",
-      "label": "Bachelor of Science in Microbiology"
-    },
-    {
-      "id": 50,
-      "value": "bse_biotechnology",
-      "label": "Bachelor of Science in Bio-Technology"
-    },
-    {
-      "id": 51,
-      "value": "ba_economics",
-      "label": "Bachelor of Social Science (Honors) in Economics"
-    },
-    {
-      "id": 52,
-      "value": "slt",
-      "label": "Bachelor of Speech and Language Therapy (SLT)"
-    }
-  ]
+    "exams": [
+        {
+            "id": 1,
+            "value": "ssc",
+            "label": "SSC/Dakhil/Equivalent"
+        },
+        {
+            "id": 2,
+            "value": "jsc",
+            "label": "JSC/JDC"
+        },
+        {
+            "id": 3,
+            "value": "ssc",
+            "label": "SSC/Dakhil"
+        },
+        {
+            "id": 4,
+            "value": "ssc_voc",
+            "label": "SSC(Vocational)"
+        },
+        {
+            "id": 5,
+            "value": "hsc",
+            "label": "HSC/Alim"
+        },
+        {
+            "id": 6,
+            "value": "hsc_voc",
+            "label": "HSC(Vocational)"
+        },
+        {
+            "id": 7,
+            "value": "hsc_hbm",
+            "label": "HSC(BM)"
+        },
+        {
+            "id": 8,
+            "value": "hsc_dic",
+            "label": "Diploma in Commerce"
+        },
+        {
+            "id": 9,
+            "value": "hsc",
+            "label": "Diploma in Business Studies"
+        },
+        {
+            "id": 10,
+            "value": "bba",
+            "label": "Bachelor of Business Administration (BBA)"
+        },
+        {
+            "id": 11,
+            "value": "bbs",
+            "label": "Bachelor of Business Studies (BBS)"
+        },
+        {
+            "id": 12,
+            "value": "bre",
+            "label": "Bachelor of Real Estate (BRE)"
+        },
+        {
+            "id": 13,
+            "value": "bthm",
+            "label": "Bachelor of Tourism and Hospitality Management (BTHM)"
+        },
+        {
+            "id": 14,
+            "value": "be",
+            "label": "Bachelor of Innovation and Entrepreneurship (BE)"
+        },
+        {
+            "id": 15,
+            "value": "bcom_accounting",
+            "label": "B. Com (Hons.) in Accounting"
+        },
+        {
+            "id": 16,
+            "value": "bcom_finance",
+            "label": "B. Com (Hons.) in Finance & Banking"
+        },
+        {
+            "id": 17,
+            "value": "bcom_management",
+            "label": "B. Com (Hons.) in Management"
+        },
+        {
+            "id": 18,
+            "value": "bba_marketing",
+            "label": "BBA in Marketing (Hons.)"
+        },
+        {
+            "id": 19,
+            "value": "bse_ete",
+            "label": "B.Sc. in Electronics & Telecommunication Engineering (ETE)"
+        },
+        {
+            "id": 20,
+            "value": "bse_te",
+            "label": "B.Sc. in Textile Engineering (TE)"
+        },
+        {
+            "id": 21,
+            "value": "bse_eee",
+            "label": "B.Sc. in Electrical & Electronic Engineering (EEE)"
+        },
+        {
+            "id": 22,
+            "value": "bse_architecture",
+            "label": "B.Sc. in Architecture (B. Arch)"
+        },
+        {
+            "id": 23,
+            "value": "ce",
+            "label": "Department of Civil Engineering (CE)"
+        },
+        {
+            "id": 24,
+            "value": "bpharmacy",
+            "label": "Bachelor of Pharmacy (Hons)"
+        },
+        {
+            "id": 25,
+            "value": "bse_nfe",
+            "label": "B.Sc. in Nutrition & Food Engineering (NFE)"
+        },
+        {
+            "id": 26,
+            "value": "bph",
+            "label": "Bachelor of Public Health"
+        },
+        {
+            "id": 27,
+            "value": "bags",
+            "label": "Bachelor of Agricultural Science (AGS)"
+        },
+        {
+            "id": 28,
+            "value": "ba_english",
+            "label": "Bachelor of Arts (Hons) in English"
+        },
+        {
+            "id": 29,
+            "value": "llb",
+            "label": "Bachelor of Law (Hons) (LLB)"
+        },
+        {
+            "id": 30,
+            "value": "bss_journalism",
+            "label": "BSS (Hons) in Journalism, Media and Communication"
+        },
+        {
+            "id": 31,
+            "value": "mba",
+            "label": "Master of Business Administration (MBA)"
+        },
+        {
+            "id": 32,
+            "value": "msc_cse",
+            "label": "M.Sc. in Computer Science & Engineering (CSE)"
+        },
+        {
+            "id": 33,
+            "value": "msc_mis",
+            "label": "M.Sc. in Management Information Systems (MIS)"
+        },
+        {
+            "id": 34,
+            "value": "msc_swe",
+            "label": "M.Sc. in Software Engineering (SWE)"
+        },
+        {
+            "id": 35,
+            "value": "msc_ete",
+            "label": "M.Sc. in Electronics and Telecommunication Engineering (ETE)"
+        },
+        {
+            "id": 36,
+            "value": "msc_te",
+            "label": "M.Sc. in Textile Engineering (TE)"
+        },
+        {
+            "id": 37,
+            "value": "mph",
+            "label": "Master of Public Health (MPH)"
+        },
+        {
+            "id": 38,
+            "value": "mpharmacy",
+            "label": "Master of Pharmacy"
+        },
+        {
+            "id": 39,
+            "value": "ma_english",
+            "label": "Master of Arts in English"
+        },
+        {
+            "id": 40,
+            "value": "llm",
+            "label": "Master of Law (LLM)"
+        },
+        {
+            "id": 41,
+            "value": "mss_journalism",
+            "label": "MSS in Journalism, Media and Communication"
+        },
+        {
+            "id": 42,
+            "value": "mss_development_studies",
+            "label": "MSS in Development Studies"
+        },
+        {
+            "id": 43,
+            "value": "pgd_islm",
+            "label": "Postgraduate Diploma in Information Science and Library Management"
+        },
+        {
+            "id": 44,
+            "value": "phd",
+            "label": "Doctor of Philosophy (Ph.D.)"
+        },
+        {
+            "id": 45,
+            "value": "mphil",
+            "label": "Master of Philosophy (M.Phil.)"
+        },
+        {
+            "id": 46,
+            "value": "mres",
+            "label": "Masters by Research (M.Res)"
+        },
+        {
+            "id": 47,
+            "value": "mder",
+            "label": "Master of Digital Education and Research (MDER)"
+        },
+        {
+            "id": 48,
+            "value": "bse_transportation_engineering",
+            "label": "Bachelor of Science in Transportation Engineering"
+        },
+        {
+            "id": 49,
+            "value": "bse_microbiology",
+            "label": "Bachelor of Science in Microbiology"
+        },
+        {
+            "id": 50,
+            "value": "bse_biotechnology",
+            "label": "Bachelor of Science in Bio-Technology"
+        },
+        {
+            "id": 51,
+            "value": "ba_economics",
+            "label": "Bachelor of Social Science (Honors) in Economics"
+        },
+        {
+            "id": 52,
+            "value": "slt",
+            "label": "Bachelor of Speech and Language Therapy (SLT)"
+        },
+        {
+            "id": 53,
+            "value": "bse_cse",
+            "label": "B.Sc. in Computer Science & Engineering (CSE)"
+        },
+        {
+            "id": 54,
+            "value": "bse_cis",
+            "label": "B.Sc. in Computing & Information System (CIS)"
+        },
+        {
+            "id": 55,
+            "value": "bse_swe",
+            "label": "B.Sc. in Software Engineering (SWE)"
+        },
+        {
+            "id": 56,
+            "value": "bse_esdm",
+            "label": "B.Sc. in Environmental Science and Disaster Management (ESDM)"
+        },
+        {
+            "id": 57,
+            "value": "bse_mct",
+            "label": "B.Sc. in Multimedia & Creative Technology (MCT)"
+        },
+        {
+            "id": 58,
+            "value": "bse_itm",
+            "label": "B.Sc. in Information Technology & Management (ITM)"
+        },
+        {
+            "id": 59,
+            "value": "bse_pess",
+            "label": "B.Sc. in Physical Education & Sports Science (PESS)"
+        }
+    ],
+    "_by": "Tahmeedul Islam (tahmeedul.com)"
 }
