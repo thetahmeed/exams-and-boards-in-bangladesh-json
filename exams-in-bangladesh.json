@@ -1,0 +1,213 @@
+{
+    "exams": [
+        {
+            "id": 1,
+            "label": "JSC/JDC"
+        },
+        {
+            "id": 2,
+            "label": "SSC/Dakhil/Equivalent"
+        },
+        {
+            "id": 3,
+            "label": "SSC/Dakhil"
+        },
+        {
+            "id": 4,
+            "label": "SSC(Vocational)"
+        },
+        {
+            "id": 5,
+            "label": "HSC/Alim"
+        },
+        {
+            "id": 6,
+            "label": "HSC(Vocational)"
+        },
+        {
+            "id": 7,
+            "label": "HSC(BM)"
+        },
+        {
+            "id": 8,
+            "label": "Diploma in Commerce"
+        },
+        {
+            "id": 9,
+            "label": "Diploma in Business Studies"
+        },
+        {
+            "id": 10,
+            "label": "Bachelor of Business Administration (BBA)"
+        },
+        {
+            "id": 11,
+            "label": "Bachelor of Business Studies (BBS)"
+        },
+        {
+            "id": 12,
+            "label": "Bachelor of Real Estate (BRE)"
+        },
+        {
+            "id": 13,
+            "label": "Bachelor of Tourism and Hospitality Management (BTHM)"
+        },
+        {
+            "id": 14,
+            "label": "Bachelor of Innovation and Entrepreneurship (BE)"
+        },
+        {
+            "id": 15,
+            "label": "B. Com (Hons.) in Accounting"
+        },
+        {
+            "id": 16,
+            "label": "B. Com (Hons.) in Finance & Banking"
+        },
+        {
+            "id": 17,
+            "label": "B. Com (Hons.) in Management"
+        },
+        {
+            "id": 18,
+            "label": "BBA in Marketing (Hons.)"
+        },
+        {
+            "id": 19,
+            "label": "B.Sc. in Electronics & Telecommunication Engineering (ETE)"
+        },
+        {
+            "id": 20,
+            "label": "B.Sc. in Textile Engineering (TE)"
+        },
+        {
+            "id": 21,
+            "label": "B.Sc. in Electrical & Electronic Engineering (EEE)"
+        },
+        {
+            "id": 22,
+            "label": "B.Sc. in Architecture (B. Arch)"
+        },
+        {
+            "id": 23,
+            "label": "Department of Civil Engineering (CE)"
+        },
+        {
+            "id": 24,
+            "label": "Bachelor of Pharmacy (Hons)"
+        },
+        {
+            "id": 25,
+            "label": "B.Sc. in Nutrition & Food Engineering (NFE)"
+        },
+        {
+            "id": 26,
+            "label": "Bachelor of Public Health"
+        },
+        {
+            "id": 27,
+            "label": "Bachelor of Agricultural Science (AGS)"
+        },
+        {
+            "id": 28,
+            "label": "Bachelor of Arts (Hons) in English"
+        },
+        {
+            "id": 29,
+            "label": "Bachelor of Law (Hons) (LLB)"
+        },
+        {
+            "id": 30,
+            "label": "BSS (Hons) in Journalism, Media and Communication"
+        },
+        {
+            "id": 31,
+            "label": "Master of Business Administration (MBA)"
+        },
+        {
+            "id": 32,
+            "label": "M.Sc. in Computer Science & Engineering (CSE)"
+        },
+        {
+            "id": 33,
+            "label": "M.Sc. in Management Information Systems (MIS)"
+        },
+        {
+            "id": 34,
+            "label": "M.Sc. in Software Engineering (SWE)"
+        },
+        {
+            "id": 35,
+            "label": "M.Sc. in Electronics and Telecommunication Engineering (ETE)"
+        },
+        {
+            "id": 36,
+            "label": "M.Sc. in Textile Engineering (TE)"
+        },
+        {
+            "id": 37,
+            "label": "Master of Public Health (MPH)"
+        },
+        {
+            "id": 38,
+            "label": "Master of Pharmacy"
+        },
+        {
+            "id": 39,
+            "label": "Master of Arts in English"
+        },
+        {
+            "id": 40,
+            "label": "Master of Law (LLM)"
+        },
+        {
+            "id": 41,
+            "label": "MSS in Journalism, Media and Communication"
+        },
+        {
+            "id": 42,
+            "label": "MSS in Development Studies"
+        },
+        {
+            "id": 43,
+            "label": "Postgraduate Diploma in Information Science and Library Management"
+        },
+        {
+            "id": 44,
+            "label": "Doctor of Philosophy (Ph.D.)"
+        },
+        {
+            "id": 45,
+            "label": "Master of Philosophy (M.Phil.)"
+        },
+        {
+            "id": 46,
+            "label": "Masters by Research (M.Res)"
+        },
+        {
+            "id": 47,
+            "label": "Master of Digital Education and Research (MDER)"
+        },
+        {
+            "id": 48,
+            "label": "Bachelor of Science in Transportation Engineering"
+        },
+        {
+            "id": 49,
+            "label": "Bachelor of Science in Microbiology"
+        },
+        {
+            "id": 50,
+            "label": "Bachelor of Science in Bio-Technology"
+        },
+        {
+            "id": 51,
+            "label": "Bachelor of Social Science (Honors) in Economics"
+        },
+        {
+            "id": 52,
+            "label": "Bachelor of Speech and Language Therapy (SLT)"
+        }
+    ],
+    "_by": "Tahmeedul Islam (tahmeedul.com)"
+}
