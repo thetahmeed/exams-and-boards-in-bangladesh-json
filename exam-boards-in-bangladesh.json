@@ -1,0 +1,14 @@
+[
+  {"id": 1, "label": "Barisal", "value": "barisal"},
+  {"id": 2, "label": "Chittagong", "value": "chittagong"},
+  {"id": 3, "label": "Comilla", "value": "comilla"},
+  {"id": 4, "label": "Dhaka", "value": "dhaka"},
+  {"id": 5, "label": "Dinajpur", "value": "dinajpur"},
+  {"id": 6, "label": "Jessore", "value": "jessore"},
+  {"id": 7, "label": "Mymensingh", "value": "mymensingh"},
+  {"id": 8, "label": "Rajshahi", "value": "rajshahi"},
+  {"id": 9, "label": "Sylhet", "value": "sylhet"},
+  {"id": 10, "label": "Madrasah", "value": "madrasah"},
+  {"id": 11, "label": "Technical", "value": "tec"},
+  {"id": 12, "label": "DIBS(Dhaka)", "value": "dibs"}
+]
