@@ -25,7 +25,7 @@ The JSON-like data structure is organized as follows:
 ```
 Each exam option is represented as an object with a unique numerical ID, value, and label describing the exam type.
 # Usage
-You are free to use this data in your projects under the terms of the open-source license (if applicable). To use the data, you can clone or download this repository and then access the `exams-in-bangladesh.json` file for the data.
+You are free to use this data in your projects under the terms of the open-source license. To use the data, you can clone or download this repository and then access the `exams-in-bangladesh.json` file for the data.
 # Example Usage
 Here's an example of how to access the data using JavaScript:
 ```
