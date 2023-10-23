@@ -23,17 +23,17 @@ The JSON-like data structure is organized as follows:
   ]
 }
 ```
-Each exam option is represented as an object with a unique numerical ID and a label describing the exam type.
+Each exam option is represented as an object with a unique numerical ID, value, and label describing the exam type.
 # Usage
-You are free to use this data in your projects under the terms of the open-source license (if applicable). To use the data, you can clone or download this repository, and then access the `exam_options.json` file for the data.
+You are free to use this data in your projects under the terms of the open-source license (if applicable). To use the data, you can clone or download this repository and then access the `exams-in-bangladesh.json` file for the data.
 # Example Usage
 Here's an example of how to access the data using JavaScript:
 ```
 // Load the exam options data
-const examOptions = require('./exam_options.json');
+const examList = require('./exams-in-bangladesh.json');
 
 // Access exam options
-examOptions.exam_options.forEach(option => {
+examList.exams.forEach(option => {
   console.log(`ID: ${option.id}, Value: ${option.value}, Label: ${option.label}`);
 });
 ```
@@ -44,6 +44,6 @@ If you have additional exam options to add or any improvements to suggest, pleas
 This project is open-source and available under the Apache License 2.0. Please review the license file for detailed terms and conditions.
 
 # Acknowledgments
-//
+
 # Collected by
 Tahmeedul Islam
